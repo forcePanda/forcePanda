@@ -8,9 +8,9 @@
                     width: 100%;
 			    }
             </style>
-                        <img 
+                        <image 
                             class="logo"
-                            src="https://github.com/forcePanda/forcePanda/blob/main/media/mvplogo.png?raw=true"
+                            xlink:href="https://github.com/forcePanda/forcePanda/blob/main/media/mvplogo.png?raw=true"
                         />
 	</foreignObject>
 </svg>
