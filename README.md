@@ -31,6 +31,15 @@ Here are some ideas to get you started:
     </div>
 </div>
 
+<table border="0">
+
+ <tr>
+    <td><img style="padding:10px" height="100px" width="100px" src="media/sf_logo.png" /></td>
+    <td><img height="100px" width="100px" src="media/slack-icon-white.png" /></td>
+    <td><img height="100px" width="100px" src="media/mulesoft-logo.png" /></td>
+ </tr>
+</table>
+
 <!-- Visitors Counter -->
 <p align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=forcePanda" id="counter">
