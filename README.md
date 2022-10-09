@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Visitors Counter -->
+<p align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=forcePanda" id="counter">
+</p>
