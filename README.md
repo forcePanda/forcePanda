@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     </div>
 </div> -->
 
-<table border="0">
+<table>
 
  <tr>
     <td>
@@ -42,7 +42,6 @@ Here are some ideas to get you started:
     <td><img style="padding:10px" height="100px" width="100%" src="media/mulesoft-icon.webp" /></td>
     <td><img style="padding:10px" height="100px" width="100%" src="media/heroku-icon.webp" /></td>
     <td><img style="padding:10px" height="100px" width="100%" src="media/slack_icon.png" /></td>
-    
  </tr>
 </table>
 
