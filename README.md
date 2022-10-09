@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- -->
 
-<img src="mvp.svg" width="800" height="400" alt="mvp logo">
+<img src="media/mvplogo.png" width="800" height="400" alt="mvp logo">
 
 <!-- Visitors Counter -->
 <p align="center">
