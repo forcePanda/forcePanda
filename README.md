@@ -36,7 +36,7 @@ Here are some ideas to get you started:
  <tr>
     <td><img style="padding:10px" height="100px" width="100%" src="media/sf_logo.png" /></td>
     <td><img style="padding:10px" height="100px" width="100%" src="media/slack-icon-white.png" /></td>
-    <td><img style="padding:10px" height="100px" width="100%" src="media/mulesoft-logo.png" /></td>
+    <td><img style="padding:10px" height="100px" width="100%" src="media/mulesoft-icon.webp" /></td>
     <td><img style="padding:10px" height="100px" width="100%" src="media/heroku-icon.webp" /></td>
  </tr>
 </table>
