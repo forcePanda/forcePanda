@@ -72,20 +72,23 @@
             Hi
             </div>
 			<div class="slds-card tds-card mvp-card cMVPComponent">
-                <!-- <img 
+                <img 
                     src="https://trailblazer.me/resource/1572998569000/MVPIcons/MVPIcons/arrow.svg" 
                     class="slds-p-right_x-small left-arrow"
-                > -->
+                />
                 <div class="logo-container">
-                    <!-- <img 
+                    <img 
                         src="https://trailblazer.me/resource/1572998569000/MVPIcons/MVPIcons/logo-salesforce.svg" 
                         class="logo-salesforce"
-                    > -->
+                    />
                     <span class="slds-text-heading_small slds-m-bottom_x-small slds-m-left_xx-small mvp-text">
                         MVP
                     </span>
                 </div>
-                <!-- <img src="https://trailblazer.me/resource/1572998569000/MVPIcons/MVPIcons/arrow.svg" class="slds-p-right_x-small right-arrow" > -->
+                <img 
+                    src="https://trailblazer.me/resource/1572998569000/MVPIcons/MVPIcons/arrow.svg" 
+                    class="slds-p-right_x-small right-arrow" 
+                />
             </div>
 		</div>
 	</foreignObject>
