@@ -37,7 +37,7 @@ Here are some ideas to get you started:
     <td>
         <img style="padding:10px" height="100px" width="100%" src="media/sf_logo.png" />
         <br/>
-        <p align="center"> All things Salesforce! </p>
+        <p align="center">All things Salesforce!</p>
     </td>
     <td><img style="padding:10px" height="100px" width="100%" src="media/mulesoft-icon.webp" /></td>
     <td><img style="padding:10px" height="100px" width="100%" src="media/heroku-icon.webp" /></td>
