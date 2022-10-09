@@ -72,12 +72,12 @@
             Hi
             </div>
 			<div class="slds-card tds-card mvp-card cMVPComponent">
-                <img 
+                <image 
                     src="https://trailblazer.me/resource/1572998569000/MVPIcons/MVPIcons/arrow.svg" 
                     class="slds-p-right_x-small left-arrow"
                 />
                 <div class="logo-container">
-                    <img 
+                    <image 
                         src="https://trailblazer.me/resource/1572998569000/MVPIcons/MVPIcons/logo-salesforce.svg" 
                         class="logo-salesforce"
                     />
@@ -85,7 +85,7 @@
                         MVP
                     </span>
                 </div>
-                <img 
+                <image 
                     src="https://trailblazer.me/resource/1572998569000/MVPIcons/MVPIcons/arrow.svg" 
                     class="slds-p-right_x-small right-arrow" 
                 />
