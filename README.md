@@ -41,7 +41,7 @@ Here are some ideas to get you started:
     </td>
     <td><img style="padding:10px" height="100px" width="100%" src="media/mulesoft-icon.webp" /></td>
     <td><img style="padding:10px" height="100px" width="100%" src="media/heroku-icon.webp" /></td>
-    <td><img style="padding:10px" height="100px" width="100%" src="media/slack_icon.png" /></td>
+    <td><img style="padding:10px" height="100px" width="100%" src="media/slack-icon.png" /></td>
  </tr>
 </table>
 
