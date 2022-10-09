@@ -97,7 +97,7 @@ Here are some ideas to get you started:
             <div>
             Hi
             </div>
-			<!-- <article class="slds-card tds-card mvp-card cMVPComponent">
+			<article class="slds-card tds-card mvp-card cMVPComponent">
                 <img 
                     src="https://trailblazer.me/resource/1572998569000/MVPIcons/MVPIcons/arrow.svg" 
                     class="slds-p-right_x-small left-arrow"
@@ -112,7 +112,7 @@ Here are some ideas to get you started:
                     </span>
                 </div>
                 <img src="https://trailblazer.me/resource/1572998569000/MVPIcons/MVPIcons/arrow.svg" class="slds-p-right_x-small right-arrow" >
-            </article> -->
+            </article>
 		</div>
 	</foreignObject>
 </svg>
