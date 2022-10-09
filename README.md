@@ -15,9 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- -->
+<!-- MVP Logo -->
+<!-- <img src="media/mvplogo.png" style="border-radius:30px" width="800" height="400" alt="mvp logo"> -->
 
-<img src="media/mvplogo.png" style="border-radius:30px" width="800" height="400" alt="mvp logo">
+### I work on
+<div style="display: flex;flex-wrap: wrap; -webkit-box-align: start; -ms-flex-align: start; align-items: flex-start;">
+    <div style="padding-right: 0.75rem; padding-left: 0.75rem; width:33.33%">
+        <img height="100px" width="100px" src="media/sf_logo.png" />
+    </div>
+    <div style="padding-right: 0.75rem; padding-left: 0.75rem; width:33.33%">
+        <img height="100px" width="100px" src="media/slack-icon-white.png" />
+    </div>
+    <div style="padding-right: 0.75rem; padding-left: 0.75rem; width:33.33%">
+        <img height="100px" width="100px" src="media/mulesoft-logo.png" />
+    </div>
+</div>
 
 <!-- Visitors Counter -->
 <p align="center">
