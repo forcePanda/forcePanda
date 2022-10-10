@@ -19,6 +19,12 @@
     <img height="100px" width="15%" src="media/slack-icon.png" />
 </p>
 
+<br/>
+
+<p align="center">
+    13x&emsp;<img height="100px" width="25%" src="media/salesforce-certified-logo-transparent.png"/>&emsp;&emsp;&emsp;&emsp;
+</p>
+
 <!-- Visitors Counter -->
 <p align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=forcePanda" id="counter">
