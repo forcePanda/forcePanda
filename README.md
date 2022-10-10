@@ -5,7 +5,7 @@
     <span align="left">
         <h3>I'm Narender Singh, a.k.a ForcePanda</h3>
     </span> <br/>
-    <span align="left">3x Salesforce MVP, Salesforce Developer-Architect, Flow Advocate & Trainer, Certified Mulesoft Dev, Blogger @ ForcePanda, Public Speaker, Salesforce Berlin Group </span>
+    <span align="left">3x Salesforce MVP, International Speaker, Salesforce Developer-Architect, Flow Advocate & Trainer, Certified Mulesoft Dev, Blogger @ ForcePanda, Salesforce Berlin Group </span>
 </p>
 
 <br/>
