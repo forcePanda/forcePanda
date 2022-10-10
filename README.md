@@ -30,8 +30,8 @@
 <h3>Certifications</h3>
 
 <p align="center">
-    <img height="150px" width="40%" src="media/salesforce-certified-stats.png"/>&emsp;&emsp;&emsp;&emsp;
-    <img height="150px" width="50%" src="media/ms-certified-stats.png"/>
+    <img height="150px" width="45%" src="media/salesforce-certified-stats.png"/>&emsp;&emsp;&emsp;&emsp;
+    <img height="150px" width="45%" src="media/ms-certified-stats.png"/>
 </p>
 
 <br/>
