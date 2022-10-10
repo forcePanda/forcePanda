@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+<table>
+
+ <tr>
+    <td align="left">
+        <p >3x Salesforce MVP, Salesforce Developer-Architect, Flow Advocate & Trainer, Certified Mulesoft Dev, Blogger @ ForcePanda, Public Speaker, Salesforce Berlin Group Leader</p>
+    </td>
+    <td align="right">
+        <p ><img height="125px" width="70%" src="media/mvplogo-transparent.png" /></p>
+    </td>
+ </tr>
+</table>
+
 <!--
 **forcePanda/forcePanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
