@@ -8,6 +8,12 @@
     <span align="left">3x Salesforce MVP, International Speaker, Salesforce Developer-Architect, Flow Advocate & Trainer, Certified Mulesoft Dev, Blogger @ ForcePanda, Salesforce Berlin Group </span>
 </p>
 
+<p align="center">
+    <a href="https://twitter.com/Nads_P07">Twitter</a> •
+    <a href="https://www.linkedin.com/in/narendersingh07/">LinkedIn</a> •
+    <a href="https://trailblazer.me/id/nads07">Trailhead</a> •
+    <a href="https://forcepanda.wordpress.com/">Website(ForcePanda)</a>
+</p>
 <br/>
 <h2> I work on </h2>
 <br/>
@@ -27,6 +33,8 @@
     <img height="150px" width="40%" src="media/salesforce-certified-stats.png"/>&emsp;&emsp;&emsp;&emsp;
     <img height="125px" width="40%" src="media/ms-certified-stats.png"/>
 </p>
+
+<br/>
 
 <!-- Visitors Counter -->
 <p align="center">
