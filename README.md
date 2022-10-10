@@ -24,8 +24,8 @@
 <h1>Certifications</h1>
 
 <p align="center">
-    <img height="125px" width="25%" src="media/salesforce-certified-stats.png"/>&emsp;&emsp;&emsp;&emsp;
-    <img height="125px" width="25%" src="media/ms-certified-stats.png"/>
+    <img height="150px" width="40%" src="media/salesforce-certified-stats.png"/>&emsp;&emsp;&emsp;&emsp;
+    <img height="125px" width="40%" src="media/ms-certified-stats.png"/>
 </p>
 
 <!-- Visitors Counter -->
