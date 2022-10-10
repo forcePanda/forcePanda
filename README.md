@@ -27,7 +27,7 @@
 
 <br/>
 
-<h1>Certifications</h1>
+<h3>Certifications</h3>
 
 <p align="center">
     <img height="150px" width="40%" src="media/salesforce-certified-stats.png"/>&emsp;&emsp;&emsp;&emsp;
