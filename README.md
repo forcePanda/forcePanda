@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align='center'> Hi! :wave:</h1>
 
-<table>
+<!-- <table>
 
  <tr>
     <td align="left">
-        <p >3x Salesforce MVP, Salesforce Developer-Architect, Flow Advocate & Trainer, Certified Mulesoft Dev, Blogger @ ForcePanda, Public Speaker, Salesforce Berlin Group Leader</p>
+        <p>3x Salesforce MVP, Salesforce Developer-Architect, Flow Advocate & Trainer, Certified Mulesoft Dev, Blogger @ ForcePanda, Public Speaker, Salesforce Berlin Group Leader</p>
     </td>
     <td>
-        <p ><img height="125px" width="100%" src="media/mvplogo-transparent.png" /></p>
+        <p ></p>
     </td>
  </tr>
-</table>
+</table> -->
+
+<p>
+    <img align="right" height="125px" width="25%" src="media/mvplogo-transparent.png" />
+    <span align="left">
+        <h3>I'm Narender Singh, a.k.a ForcePanda</h3>
+    </span> <br/>
+    <span align="left">3x Salesforce MVP, Salesforce Developer-Architect, Flow Advocate & Trainer, Certified Mulesoft Dev, Blogger @ ForcePanda, Public Speaker, Salesforce Berlin Group </span>
+</p>
+
 
 <!--
 **forcePanda/forcePanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,35 +36,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- MVP Logo -->
-<!-- <img src="media/mvplogo.png" style="border-radius:30px" width="800" height="400" alt="mvp logo"> -->
-
+<br/>
 ### I work on
-<!-- <div style="display: flex;flex-wrap: wrap; -webkit-box-align: start; -ms-flex-align: start; align-items: flex-start;">
-    <div style="padding-right: 0.75rem; padding-left: 0.75rem; width:33.33%">
-        <img height="100px" width="100px" src="media/sf_logo.png" />
-    </div>
-    <div style="padding-right: 0.75rem; padding-left: 0.75rem; width:33.33%">
-        <img height="100px" width="100px" src="media/slack-icon-white.png" />
-    </div>
-    <div style="padding-right: 0.75rem; padding-left: 0.75rem; width:33.33%">
-        <img height="100px" width="100px" src="media/mulesoft-logo.png" />
-    </div>
-</div> -->
 
-<table align="center">
+<!-- <table align="center">
 
  <tr>
     <td>
-        <img style="padding:10px" height="100px" width="100%" src="media/sf_logo.png" />
+        <img height="100px" width="100%" src="media/sf_logo.png" />
         <br/>
         <p align="center">All things Salesforce!</p>
     </td>
-    <td><img style="padding:10px" height="100px" width="100%" src="media/mulesoft-icon.webp" /></td>
-    <td><img style="padding:10px" height="100px" width="100%" src="media/heroku-icon.webp" /></td>
-    <td><img style="padding:10px" height="100px" width="100%" src="media/slack-icon.png" /></td>
+    <td><img height="100px" width="100%" src="media/mulesoft-icon.webp" /></td>
+    <td><img height="100px" width="100%" src="media/heroku-icon.webp" /></td>
+    <td><img  height="100px" width="100%" src="media/slack-icon.png" /></td>
  </tr>
-</table>
+</table> -->
+
+<p align="center">
+    <img height="100px" width="20%" src="media/sf_logo.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="100px" width="20%" src="media/mulesoft-icon.webp" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="100px" width="20%" src="media/heroku-icon.webp" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="100px" width="20%" src="media/slack-icon.png" />
+    <p align="left">All things Salesforce!
+    </p>
+
+</p>
 
 <!-- Visitors Counter -->
 <p align="center">
