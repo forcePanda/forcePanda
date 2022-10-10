@@ -22,7 +22,8 @@
 <br/>
 
 <p align="center">
-    13x&emsp;<img height="100px" width="25%" src="media/salesforce-certified-logo-transparent.png"/>&emsp;&emsp;&emsp;&emsp;
+    <img height="100px" width="25%" src="media/salesforce-certified-stats.png"/>&emsp;&emsp;&emsp;&emsp;
+    <img height="100px" width="25%" src="media/ms-certified-stats.png"/>&emsp;&emsp;&emsp;&emsp;
 </p>
 
 <!-- Visitors Counter -->
