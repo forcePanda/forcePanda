@@ -13,12 +13,10 @@
 <br/>
 
 <p align="center">
-    <img height="100px" width="15%" src="media/sf_logo.png" />&emsp;&emsp;&emsp;&emsp;
+    <img height="100px" width="15%" src="media/sf_logo.png"/>&emsp;&emsp;&emsp;&emsp;
     <img height="100px" width="15%" src="media/mulesoft-icon.webp" />&emsp;&emsp;&emsp;
     <img height="100px" width="15%" src="media/heroku-icon.webp" />&emsp;&emsp;&emsp;
     <img height="100px" width="15%" src="media/slack-icon.png" />
-    <p align="left">&emsp;&emsp;&emsp;&emsp;&emsp; All things Salesforce!</p>
-
 </p>
 
 <!-- Visitors Counter -->
