@@ -31,7 +31,7 @@
 
 <p align="center">
     <img height="150px" width="40%" src="media/salesforce-certified-stats.png"/>&emsp;&emsp;&emsp;&emsp;
-    <img height="125px" width="40%" src="media/ms-certified-stats.png"/>
+    <img height="150px" width="50%" src="media/ms-certified-stats.png"/>
 </p>
 
 <br/>
