@@ -6,7 +6,7 @@
         <h3>I'm Narender Singh, a.k.a ForcePanda</h3>
     </p>
     <p align="left">4x Salesforce MVP, Salesforce 12x Certified Architect-Developer, MuleSoft Certified, Flow Expert and Trainer, Mentor, International Speaker, Blogger @ ForcePanda, Salesforce Berlin Group Leader.</p>
-    <p align="left">You can reach out to me on <a href="https://topmate.io/forcepanda">Topmate</a> if you’re looking for more personalized and timely help. I offer a variety of services including Salesforce Consultation, 1:1 mentorship, how to build a personal brand and more.</p>
+    <!--p align="left">You can reach out to me on <a href="https://topmate.io/forcepanda">Topmate</a> if you’re looking for more personalized and timely help. I offer a variety of services including Salesforce Consultation, 1:1 mentorship, how to build a personal brand and more.</p-->
 </p>
 
 <p align="center">
