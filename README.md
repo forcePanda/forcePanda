@@ -5,7 +5,7 @@
     <p align="left">
         <h3>I'm Narender Singh, a.k.a ForcePanda</h3>
     </p>
-    <p align="left">4x Salesforce MVP, Salesforce 12x Certified Architect-Developer, MuleSoft Certified, Flow Expert and Trainer, Mentor, International Speaker, Blogger @ ForcePanda, Salesforce Berlin Group Leader.</p>
+    <p align="left">Salesforce Hall of Fame MVP, Freelance Salesforce-MuleSoft Technical Architect-Dev, Public Speaker-Mentor, Flows OG, Blogs @ ForcePanda, SF Berlin Group Leader</p>
     <!--p align="left">You can reach out to me on <a href="https://topmate.io/forcepanda">Topmate</a> if you’re looking for more personalized and timely help. I offer a variety of services including Salesforce Consultation, 1:1 mentorship, how to build a personal brand and more.</p-->
 </p>
 
@@ -27,17 +27,26 @@
     <img height="100px" width="15%" src="media/slack-icon.png" />
 </p>
 
-<p>I do everything and anything around Salesforce, MuleSoft, Heroku, Slack and Integrations. It can range from creating a field to leading an implementation for a 1000+ users' org as the sole technical architect(and developer). Over the years, I have worked with organizations, from small scale businesses to Fortune 500 enterprise companies, helping and leading their Salesforce implementations to success.</p>
-<br/>
+<p>I build Salesforce (orgs) that scale revenue-wise, not complexity-wise. </p>
+<ul>
+    <li><strong>Salesforce Architecture & Delivery</strong> - Sales, Service, Experience, B2B Commerce, MuleSoft, Heroku, Slack
+</li>
+    <li><strong>AI-driven solutions</strong> - Agentforce, Gemini, Document processing, Chatbots)</li>
+    <li><strong>Complex integrations</strong> - Agentforce API, SAP, Twilio, NHS, JIRA, Freshdesk, IQVIA, Adyen, AWS, REST APIs</li>
+    <li><strong>Automation & Scale</strong> - Flows, Apex, CI/CD, release automation</li>
+</ul>
+
+<p>Over the years, I have worked with several organizations, from small scale businesses to multi-million dollar companies like Mercedes, Volkswagen, Porsche Motorsport, DHL, eBay(EU) etc. leading their Salesforce implementations to success.</p>
+
+<p>Besides all this, I speak at multiple conferences across the globe. I have also had the honor of speaking at the prestigious Dreamforce and TrailblazerDX. I own a website called Forcepanda where I write a lot of Salesforce stuff. I also lead the Berlin Salesforce Community Group, where I help foster a community of learning and collaboration.</p>
+
+<p>If you have made it this far, then let me tell you something when I'm not Salesforce-ing. Most likely, I'm either playing football or watching NBA.</p>
 
 <h3>Certifications</h3>
-
 <p align="center">
     <img height="150px" width="45%" src="media/salesforce-certified-stats.png"/>&emsp;&emsp;&emsp;&emsp;
     <img height="150px" width="45%" src="media/ms-certified-stats.png"/>
 </p>
-
-<br/>
 
 <!-- Visitors Counter -->
 <p align="center">
