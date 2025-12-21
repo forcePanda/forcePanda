@@ -40,7 +40,7 @@
 
 <p>Besides all this, I speak at multiple conferences across the globe. I have also had the honor of speaking at the prestigious Dreamforce and TrailblazerDX. I own a website called Forcepanda where I write a lot of Salesforce stuff. I also lead the Berlin Salesforce Community Group, where I help foster a community of learning and collaboration.</p>
 
-<p>If you have made it this far, then let me tell you something when I'm not Salesforce-ing. Most likely, I'm either playing football or watching NBA.</p>
+<p>If you have made it this far, then let me tell you something I do when I'm not Salesforce-ing. Most likely, I'm either playing football or watching NBA.</p>
 
 <h3>Certifications</h3>
 <p align="center">
